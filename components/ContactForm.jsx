@@ -63,7 +63,7 @@ export default function ContactForm() {
             value={email}
             type="text"
             id="email"
-            placeholder="john@gmail.com"
+            placeholder="jnaneshps5@gmail.com"
           />
         </div>
 
